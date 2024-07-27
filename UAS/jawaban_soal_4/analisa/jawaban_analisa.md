@@ -1,0 +1,1 @@
+Aplikasi bisa berkomunikasi dengan database menggunakan pustaka atau modul khusus.
