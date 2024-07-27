@@ -1,0 +1,1 @@
+GUI: memungkinkan interaksi dengan perangkat lunak melalui elemen-elemen visual. GUI membuat aplikasi perangkat lunak lebih mudah digunakan dengan menggantikan perintah berbasis teks (CLI - Command Line Interface) dengan elemen grafis yang intuitif.

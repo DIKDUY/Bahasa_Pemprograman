@@ -1,0 +1,1 @@
+Exception Handling: Mekanisme/sistem untuk menangani kesalahan yang terjadi selama eksekusi program. Python menggunakan blok try, except, else, dan finally untuk menanggani exception.
